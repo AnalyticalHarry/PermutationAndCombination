@@ -31,3 +31,10 @@ r = 3
 
 #call the function 
 generate_permutations_and_combinations(digits, r)
+
+# ******************************************************
+# Author: Hemant Thapa
+# Programming Language: Python
+# Date Pushed to GitHub: 01.02.2024
+# Email: hemantthapa1998@gmail.com
+# ******************************************************
