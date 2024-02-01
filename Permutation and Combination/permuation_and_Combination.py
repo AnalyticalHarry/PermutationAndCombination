@@ -34,3 +34,10 @@ for i in permutations:
 print("\nCombinations:")
 for j in combinations:
     print(j)
+
+# ******************************************************
+# Author: Hemant Thapa
+# Programming Language: Python
+# Date Pushed to GitHub: 01.02.2024
+# Email: hemantthapa1998@gmail.com
+# ******************************************************
