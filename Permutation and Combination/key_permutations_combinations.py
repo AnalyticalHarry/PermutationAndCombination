@@ -30,3 +30,10 @@ permutations = calculate_permutations(n, r)
 combinations = calculate_combinations(n, r)
 print(f"Permutations: {permutations}")
 print(f"Combinations: {combinations}")
+
+# ******************************************************
+# Author: Hemant Thapa
+# Programming Language: Python
+# Date Pushed to GitHub: 01.02.2024
+# Email: hemantthapa1998@gmail.com
+# ******************************************************
