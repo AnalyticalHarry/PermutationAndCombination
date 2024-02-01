@@ -18,17 +18,19 @@ def generate_combinations(elements, r):
     combinations = list(itertools.combinations(elements, r))
     return combinations
 
-#elements is a list representing the set of elements from which you want to generate permutations and combinations. In this specific example, elements is set to [1, 2, 3], so you are working with the elements 1, 2, and 3.
-elements = [1, 2, 3]
+#elements is a list representing the set of elements from which you want to generate permutations and combinations.
+#r is the length of the permutations or combinations 
+elements = [x for x in range(10, 20)]
 r = 2
 
+#calling functions
 permutations = generate_permutations(elements, r)
 combinations = generate_combinations(elements, r)
 
 print("Permutations:")
-for perm in permutations:
-    print(perm)
+for i in permutations:
+    print(i)
 
 print("\nCombinations:")
-for comb in combinations:
-    print(comb)
+for j in combinations:
+    print(j)
