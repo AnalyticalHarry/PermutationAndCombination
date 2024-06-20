@@ -32,3 +32,15 @@ let k = 2;
 let p = 1/6; 
 let prob = probability_exact_k_outcomes(n, k, p)  
 console.log(`The probability of rolling exactly {k} 5's in {n} rolls is ${prob}`)
+
+
+
+// Probability of getting exactly five 5's when throwing a dice five times
+// numbe of dice rolls
+let n = 5
+// number of specific outcomes (rolling a 5)
+let k = 5
+// probability of rolling a specific number on a single roll
+let p = 1/6
+let prob = probability_exact_k_outcomes(n, k, p)  
+console.log(`The probability of rolling exactly {k} 5's in {n} rolls is ${prob}`)
