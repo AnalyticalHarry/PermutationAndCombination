@@ -63,3 +63,7 @@
 - **Stochastic Processes:**
   - Introduction to stochastic processes
   - Poisson processes, Brownian motion, and their applications
+
+
+### Author : Hemant Thapa
+### Email : hemantthapa1998@gmail.com
